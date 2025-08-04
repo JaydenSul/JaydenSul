@@ -12,12 +12,6 @@
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-</p>
-
----
-
 ### 🧰 Languages & Tools
 
 <p align="left">
